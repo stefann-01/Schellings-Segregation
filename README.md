@@ -8,4 +8,4 @@
 - Population ratios
 - Number of uninhabited positions
 
-#### Statistics.py generates relevant plots for future analyses.
+#### <i><b>Statistics.py</b></i> generates relevant plots for future analyses.
